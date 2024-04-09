@@ -5,7 +5,7 @@
 ___
 
 ## Descritiption
-This Project implements a soltuion for the pairwise testing method. It was created as coursework for the lecture [Programmieren in C++ 2023](https://cca.informatik.uni-freiburg.de/cpp/) at the University of Freiburg.The requirements can be found here: [requirements](https://daphne.informatik.uni-freiburg.de/ss2023/ProgrammierenCplusplus/svn-public/public/uebungen/project.pdf).
+This Project implements a soltuion for the pairwise testing method. It was created as coursework for the lecture [Programmieren in C++ 2023](https://cca.informatik.uni-freiburg.de/cpp/) at the University of Freiburg. The requirements can be found here: [requirements](https://daphne.informatik.uni-freiburg.de/ss2023/ProgrammierenCplusplus/svn-public/public/uebungen/project.pdf).
 #### Status:
 ````diff
 + COMPLETE
