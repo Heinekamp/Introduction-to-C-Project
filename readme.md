@@ -1,16 +1,15 @@
-<div class="warning" style='background-color:#fcf2a4; color: #000000; border-left: solid #ffe203 8px; border-radius: 8px; padding:0.2em;'>
-<span>
-<p style='margin-top:1em; text-align:center'>
-<b>Note:</b> Full Project Documentation available at /Documentation/html/index.html</p>
-</p></span>
-</div>
+> [!Note]
+>Full Project Documentation available at /Documentation/html/index.html
+
 
 ___
 
 ## Descritiption
 This Project implements a soltuion for the pairwise testing method
 #### Status:
-<span style="color:green"> **COMPLETE** \n</span>
+````diff
++ COMPLETE
+````
 ___
 
 ## Contents:
