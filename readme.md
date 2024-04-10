@@ -23,7 +23,7 @@ ___
 ## Usage:
 
 ### checkerMain:
-- This program is  created by runnung make compile, it will check a given set of .options, .constraints and .model files.
+- This program is  created by running make compile, it will check a given set of .options, .constraints and .model files.
 - The files "a.options", "a.constraints" and "a.models" can be used as sample inputs for the programm
 - When running the programm it expects three arguments with the options and constraints file as well as the model files. If the program does not receive exactly three arguments it will result in an error message
 - Example command to run the programm: 
