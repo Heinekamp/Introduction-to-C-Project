@@ -1,5 +1,5 @@
 > [!Note]
->Full Project Documentation available at /Documentation/html/index.html
+>Full Project Documentation available at https://heinekamp.github.io/Introduction-to-C-Project/
 
 
 ___
