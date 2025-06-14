@@ -3,6 +3,7 @@ name: Deploy HTML to GitHub Pages
 permissions:
   contents: read
   id-token: write
+  pages: write
 
 on:
   push:
