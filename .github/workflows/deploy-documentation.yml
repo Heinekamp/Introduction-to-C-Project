@@ -1,5 +1,9 @@
 name: Deploy HTML to GitHub Pages
 
+permissions:
+  contents: read
+  id-token: write
+
 on:
   push:
     branches:
